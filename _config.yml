@@ -1,7 +1,7 @@
 # Site settings
 title: Fan's Sharing Space
 SEOTitle: My Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/MtRainier1.jpg #post-bg-desk.jpg
 email: zhoufan0518@gmail.com
 description: "I will share my life and some knowledge here in the future."
 keyword: "My Blog"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/FanZhou-Kirito/FanZhou-Kirito.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "This is the sidebar"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Niagara1_1.jpg #avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
