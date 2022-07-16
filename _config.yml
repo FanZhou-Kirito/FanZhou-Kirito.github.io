@@ -11,7 +11,7 @@ github_repo: "https://github.com/FanZhou-Kirito/FanZhou-Kirito.github.io" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "This is the Fan Zhou's Blog"
+sidebar-about-description: "Fan Zhou\nMaster: Carnegie Mellon University ECE\nBachelor: Nankai University EE"
 sidebar-avatar: /img/MtRainier1_1.jpg #avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -63,7 +63,7 @@ gitalk:
   clientID:                             #生成的clientID
   clientSecret:     #生成的clientSecret
   repo: FanZhou-Kirito.github.io    #仓库名称
-  owner:     #github用户名
+  owner: FanZhou-Kirito     #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
